@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-	cout << "홍제준" << endl;
+	cout << "강동륜" << endl;
 }
