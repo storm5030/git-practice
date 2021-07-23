@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-	cout << "홍제준" << endl;
+int main()
+{
+	cout << "조소현" << endl;
+}
+
+int change()
+{
+	return 0;
 }
